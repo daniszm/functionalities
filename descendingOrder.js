@@ -13,8 +13,12 @@ function descendingOrder(n) {
   for (var i = 0; i < stringNumber.length; i++) {
       output.push(stringNumber.charAt(i));
   }
-
+  
   output = output.sort(function(a, b){return b-a}).join("");
   output = Number(output);
   return output;
 }
+
+
+
+
