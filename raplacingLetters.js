@@ -19,7 +19,6 @@ for (var i=1; i<27; i++) {
 }
 fillNumbersArray();
 
-
 for (var i=0; i < textToLowerCase.length; i++){
     var letter = textToLowerCase[i];
     var indexOfAlphabet = alphabet.indexOf(letter);
