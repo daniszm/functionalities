@@ -31,3 +31,5 @@ for (var i=0; i < textToLowerCase.length; i++){
 var finalResultToString = finalResult.toString();
 var replaced = finalResultToString.split(',').join(' ');
 return replaced;
+  
+}
