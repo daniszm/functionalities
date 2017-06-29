@@ -1,2 +1,2 @@
 # functionalities
-Some ready functionalities which I made.
+Some ready functionalities which I created.
